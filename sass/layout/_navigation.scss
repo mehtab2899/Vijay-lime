@@ -25,15 +25,6 @@ nav div ul li a {
 nav div ul li a:hover {
   background-position: 100%;
   color: $color-black !important;
-  // transform: translateX(1rem);
-  // border-radius: 0.5rem;
-  // background-image: linear-gradient(
-  //   120deg,
-  //   transparent 0%,
-  //   transparent 50%,
-  //   $color-white 50%
-  // );
-  // background-size: 230%;
   transition: all 0.4s;
 }
 
